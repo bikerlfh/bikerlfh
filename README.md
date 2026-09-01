@@ -19,6 +19,7 @@
 
 ## Current Projects
 
+- 🇨🇦 **[immcad](https://github.com/bikerlfh/immcad)** - AI-assisted case management for Canadian immigration: dynamic IRCC checklists, in-app forms and AI risk detection (Django 5 + Next.js 16)
 - 🔌 **[dmwrapper](https://github.com/bikerlfh/dmwrapper)** - Drop-in LeechCore proxy DLL in pure C that logs and transparently forwards every DMA API call
 - 🖥️ **[DMXProject](https://github.com/bikerlfh/DMXProject)** - Near-real-time DMA memory watcher for Windows: C11 engine over FPGA/PCIe + C++20 Dear ImGui overlay
 - 📚 **[Tlearning](https://github.com/bikerlfh/Tlearning)** - Spaced-repetition language learning app with MCP ingestion from Claude/Cursor (Django + Celery)
