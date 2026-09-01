@@ -19,11 +19,19 @@
 
 ## Current Projects
 
-- ⚡ **[crashbot-lite](https://github.com/bikerlfh/crashbot-lite)** - Lightweight bot for automated betting on Aviator and crash-type games
+- 🇨🇦 **[immcad](https://github.com/bikerlfh/immcad)** - AI-assisted case management for Canadian immigration: dynamic IRCC checklists, in-app forms and AI risk detection (Django 5 + Next.js 16)
+- 🔌 **[dmwrapper](https://github.com/bikerlfh/dmwrapper)** - Drop-in LeechCore proxy DLL in pure C that logs and transparently forwards every DMA API call
+- 🖥️ **[DMXProject](https://github.com/bikerlfh/DMXProject)** - Near-real-time DMA memory watcher for Windows: C11 engine over FPGA/PCIe + C++20 Dear ImGui overlay
+- 📚 **[Tlearning](https://github.com/bikerlfh/Tlearning)** - Spaced-repetition language learning app with MCP ingestion from Claude/Cursor (Django + Celery)
+- 🎙️ **[VoiceMiddle](https://github.com/bikerlfh/VoiceMiddle)** - Real-time bidirectional voice translation for macOS via Core Audio taps + a DriverKit virtual microphone
+- 📋 **[toony-dev-core](https://github.com/bikerlfh/toony-dev-core)** - Self-hosted project management platform with AI agent automation (Django 5 + Next.js 15)
+- 🔧 **[toony-mcp](https://github.com/bikerlfh/toony-mcp)** - MCP server exposing 20 tools so Claude can drive projects, issues and workflows in Toony
 - 🤖 **[crashbot](https://github.com/bikerlfh/crashbot)** - AI-powered bot for automated betting on crash-type casino games
 - 🧠 **[crashbot-back](https://github.com/bikerlfh/crashbot-back)** - Real-time crash game prediction backend using neural networks (LSTM/GRU)
 - 🏓 **[probetsapp](https://github.com/bikerlfh/probetsapp)** - Table tennis betting prediction platform with ML-powered analysis
+- ⚡ **[crashbot-lite](https://github.com/bikerlfh/crashbot-lite)** - Lightweight bot for automated betting on Aviator and crash-type games
 - 🍓 **[Argon40-ArgonOne-Fan-Script](https://github.com/bikerlfh/Argon40-ArgonOne-Fan-Script)** - Fan control utilities for Raspberry Pi with LineageOS support
+- 💻 **[bikerlfh.github.io](https://github.com/bikerlfh/bikerlfh.github.io)** - Personal portfolio with a retro CRT terminal aesthetic, no build step
 
 ## What I Do
 
